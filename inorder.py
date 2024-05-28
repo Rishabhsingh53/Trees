@@ -20,3 +20,4 @@ def inorder(node):
         print(node.value)
         inorder(node.right)
 
+inorder(root)
